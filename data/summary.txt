@@ -1,0 +1,12 @@
+Snehal Thorat is a Computer Science graduate student at the University of Texas at Arlington (M.S., GPA 4.0, expected Dec 2025), with a B.E. in Information Technology from Savitribai Phule Pune University (GPA 3.7). Her academic focus includes Algorithms, Data Mining, Cloud Computing, Big Data, Machine Learning, and Artificial Intelligence.
+
+She is currently a Software Developer Intern at Paycom (TX, USA), where she builds full-stack analytics dashboards using React, Next.js, Node.js, TypeScript, REST APIs, and MySQL. She previously worked at UTA’s Office of Information Technology as a Web Developer, contributing to Sitecore CMS components, CampusPress customizations, and ITSM workflows in ServiceNow. Prior to that, she was a Business Intelligence Developer at Encora, working with Snowflake, Looker, Snap Logic, Symmetric DS, and Ansible to optimize ETL pipelines and data models. At Accenture, she served as an Application Development Analyst, developing scalable application solutions, improving database performance, and enhancing frameworks for greater efficiency.
+
+Her academic projects include:  
+- A MERN stack movie ticket booking web app with optimized performance and secure payments.  
+- Feast Hub, a Flutter + Firebase-based Android food delivery app with 500+ downloads, real-time tracking, and secure payments.  
+- A machine learning inventory prediction system with 96% accuracy in demand forecasting.  
+
+Her technical skills span Java, Python, R, JavaScript, HTML/CSS, PHP, React, SQL, MySQL, PostgreSQL, MongoDB, Snowflake, Looker, Tableau, GitHub, Jira, Confluence, ServiceNow, AWS, and Azure. She holds certifications in Microsoft Azure AI Fundamentals and Meta Data Engineering.
+
+Snehal has been recognized with a fast-track promotion at Accenture and Dean’s List honors during her undergraduate studies. She has also held leadership and volunteer roles, including NSS Volunteer and Technical Event Head at her university fest.
